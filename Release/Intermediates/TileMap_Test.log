@@ -1,0 +1,20 @@
+﻿  Actor.cpp
+  AnimSpriteComponent.cpp
+c:\vs projects\tilemap_test\src\animspritecomponent.cpp(21): warning C4244: '=': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  BGSpriteComponent.cpp
+  Character.cpp
+  Component.cpp
+  Game.cpp
+  Main.cpp
+  SpriteComponent.cpp
+  TileMapComponent.cpp
+c:\vs projects\tilemap_test\src\tilemapcomponent.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\vs projects\tilemap_test\src\tilemapcomponent.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 1175 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TileMap_Test.vcxproj -> C:\VS Projects\TileMap_Test\Release\TileMap_Test.exe
