@@ -15,4 +15,5 @@ public:
 private:
 	float mRightSpeed;
 	State mState;
+	class AnimSpriteComponent* mAnim;
 };
