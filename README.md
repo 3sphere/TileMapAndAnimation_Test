@@ -1,7 +1,7 @@
 # TileMapAndAnimation_Test
 
 ### About
-This project is a simple demo I created to test code that loads in a tile map from a file, using the game object model outlined in [Asteroids repo](https://github.com/3sphere/Asteroids).  
+Testing out code for loading in a tile map and for creating animated sprites
 
 ![Screenshot](https://github.com/3sphere/TileMapAndAnimation_Test/blob/master/screenshot.png)  
 
